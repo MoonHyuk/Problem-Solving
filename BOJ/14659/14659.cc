@@ -21,8 +21,8 @@ int main()
             count = 0;
             high = temp;
         }
-        ans = max(ans, count);
     }
+    ans = max(ans, count);
 
     cout << ans;
 
