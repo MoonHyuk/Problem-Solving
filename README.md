@@ -13,7 +13,7 @@
 |    9 |        역순 연결 리스트        |  [링크](https://leetcode.com/problems/reverse-linked-list/)  |   😡    | [링크](solutions/9/README.md)  |
 |   10 |          두 수의 덧셈          |    [링크](https://leetcode.com/problems/add-two-numbers/)    |   😡😡   | [링크](solutions/10/README.md) |
 |   11 |        페어의 노드 스왑        |                           [링크]()                           |   😡😡   |            [링크]()            |
-|   12 |        홀짝 연결 리스트        |                           [링크]()                           |   😡😡   |            [링크]()            |
+|   12 |        홀짝 연결 리스트        | [링크](https://leetcode.com/problems/odd-even-linked-list/)  |   😡😡   | [링크](solutions/12/README.md) |
 |   13 |       역순 연결 리스트2        |                           [링크]()                           |   😡😡   |            [링크]()            |
 |   14 |          유효한 괄호           |                           [링크]()                           |   😡    |            [링크]()            |
 |   15 |           일일 온도            |                           [링크]()                           |   😡😡   |            [링크]()            |
