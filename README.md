@@ -17,7 +17,7 @@
 |   13 |       역순 연결 리스트2        | [링크](https://leetcode.com/problems/reverse-linked-list-ii/) |   😡😡   | [링크](solutions/13/README.md) |
 |   14 |          유효한 괄호           | [링크](https://leetcode.com/problems/valid-parentheses/submissions/) |   😡    | [링크](solutions/14/README.md) |
 |   15 |           일일 온도            |  [링크](https://leetcode.com/problems/daily-temperatures/)   |   😡😡   | [링크](solutions/15/README.md) |
-|      |                                |                                                              |        |                                |
+|   16 |     큐를 이용한 스택 구현      | [링크](https://leetcode.com/problems/implement-stack-using-queues/) |   😡    | [링크](solutions/16/README.md) |
 |      |                                |                                                              |        |                                |
 |      |                                |                                                              |        |                                |
 |      |                                |                                                              |        |                                |
