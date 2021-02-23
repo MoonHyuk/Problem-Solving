@@ -19,6 +19,6 @@
 |   15 |           일일 온도            |  [링크](https://leetcode.com/problems/daily-temperatures/)   |   😡😡   | [링크](solutions/15/README.md) |
 |   16 |     큐를 이용한 스택 구현      | [링크](https://leetcode.com/problems/implement-stack-using-queues/) |   😡    | [링크](solutions/16/README.md) |
 |   17 |     스택을 이용한 큐 구현      | [링크](https://leetcode.com/problems/implement-queue-using-stacks/) |   😡    | [링크](solutions/17/README.md) |
-|      |                                |                                                              |        |                                |
+|   18 |         원형 큐 디자인         | [링크](https://leetcode.com/problems/design-circular-queue/submissions/) |   😡😡   | [링크](solutions/18/README.md) |
 |      |                                |                                                              |        |                                |
 
