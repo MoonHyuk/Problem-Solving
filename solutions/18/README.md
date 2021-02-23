@@ -115,6 +115,8 @@ class MyCircularQueue:
 
 - 포인터를 이동시킬 때 mod k를 한번 해줘야 한다는 점
 - enQueue(x)시 배열에 append가 아니라 end 포인터기 가르키는 인덱스에 값을 넣는다는 점
+- deQueue시 배열의 start 포인터가 가르키는 인덱스의 값을 None으로 바꾼다는 점
 - 큐가 비어있을 때와 큐가 꽉 찼을 때 모두 start와 end 포인터의 위치가 같다는 점. 따라서 추가적으로 `self.li[self.start]`가 None 인지 아닌지로 구분한다는 점
 
 이다.
+

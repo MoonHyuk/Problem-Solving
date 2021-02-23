@@ -25,7 +25,7 @@
         
 
     def pop(self) -> int:
-				self.peek()
+	self.peek()
         return self.s2.pop()
         
 
